@@ -1,2 +1,8 @@
 /.DS_Store
 /.vercel
+/backend/__pycache__
+/backend/settings/__pycache__
+/backend/router/__pycache__
+/backend/models/__pycache__
+/backend/settings/__pycache__
+/backend/uploads/__pycache__
